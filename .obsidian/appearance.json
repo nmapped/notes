@@ -1,0 +1,10 @@
+{
+  "cssTheme": "mono black (monochrome, charcoal)",
+  "accentColor": "#616161",
+  "showViewHeader": false,
+  "showRibbon": true,
+  "interfaceFontFamily": "Noto Sans",
+  "textFontFamily": "Noto Sans",
+  "monospaceFontFamily": "Noto Sans Mono",
+  "enabledCssSnippets": []
+}
