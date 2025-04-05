@@ -1,8 +1,7 @@
 ---
 title: nmapped-garden
 enableToc: false
-cssclasses:
-- hide-meta
+cssclasses: []
 ---
 
 # Hello, I'm [redacted]
